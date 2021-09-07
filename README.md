@@ -1,6 +1,4 @@
-# BusTicketing
-
-# Cicular Queue 👌
+# BusTicketing - Cicular Queue 👌
 |Q[7]|Q[0]|Q[1]|
 |---|---|---|
 |Q[6]||Q[2]|
