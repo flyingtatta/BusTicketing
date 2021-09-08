@@ -1,4 +1,6 @@
-# BusTicketing - Linear Queue 🧑‍🤝‍🧑 (FIFO)
+# BusTicketing - Linear Queue 🚌 (FIFO)
+_concepts behind the working_
+
 ## Variables to be declared
 - `MAX`  a variable to declare the final size of the queue
 - `front` decalres the starting element in the queue (initialized to  _-1_)
